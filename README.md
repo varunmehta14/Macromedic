@@ -2,7 +2,7 @@
 
 <h4 align="center"> Repository for CodeX Clinic project.</h4>
 
-<h4 align="center">To watch our demo video. <a href="https://www.youtube.com/watch?v=74OVIPUa-dg">Click Here.</a></h4>
+<h4 align="center">To watch demo video. <a href="https://www.youtube.com/watch?v=74OVIPUa-dg">Click Here.</a></h4>
 
 ## Overview
 **CodeX Clinic** is an AI-powered healthcare platform that offers medical report extraction and summarization using **AWS Textract** and **GPT-2**. The system efficiently extracts, processes, and summarizes medical reports, making it easier for patients to understand their health data without medical expertise.
@@ -80,41 +80,3 @@
 - **Twilio API** for SMS/Email notifications.
 - **WebRTC** for video conferencing.
 
-## Setup & Installation
-### Prerequisites:
-- Python 3.8+
-- Node.js 16+
-- AWS Textract Account
-
-### Backend Installation:
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-
-### Frontend Installation:
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### Mobile App Installation:
-```bash
-cd mobile
-flutter pub get
-flutter run
-```
-
-## Contributing
-We welcome contributions! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the **MIT License**.
-
-## Acknowledgments
-Special thanks to **Pratik Kanani, Tanay Gandhi, Yash Jhaveri, and Varun Mehta** for their research on **Medical Report Summarization using Textract & GPT-2**.
-
----
-🚀 **CodeX Clinic: AI-powered Healthcare for Everyone!**
