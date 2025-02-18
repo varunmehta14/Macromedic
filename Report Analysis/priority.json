@@ -1,0 +1,122 @@
+{
+    "haemoglobin": {
+        "priority": 3
+    },
+    "rbc_count": {
+        "priority": 3
+    },
+    "total_leukocyte_count": {
+        "priority": 2
+    },
+    "lymphocytes": {
+        "priority": 3
+    },
+    "monocytes": {
+        "priority": 3
+    },
+    "eosinophils": {
+        "priority": 2
+    },
+    "basophils": {
+        "priority": 3
+    },
+    "platelet_count": {
+        "priority": 2
+    },
+    "mean_platelet_volume": {
+        "priority": 3
+    },
+    "bilirubin_total": {
+        "priority": 1
+    },
+    "bilirubin_direct": {
+        "priority": 1
+    },
+    "bilirubin_indirect": {
+        "priority": 1
+    },
+    "ast": {
+        "priority": 3
+    },
+    "alt": {
+        "priority": 3
+    },
+    "alkaline_phosphates": {
+        "priority": 3
+    },
+    "total_protein": {
+        "priority": 3
+    },
+    "alumin": {
+        "priority": 3
+    },
+    "urea": {
+        "priority": 2
+    },
+    "creatinine": {
+        "priority": 2
+    },
+    "uric_acid": {
+        "priority": 2
+    },
+    "calcium": {
+        "priority": 4
+    },
+    "phosphorous": {
+        "priority": 3
+    },
+    "sodium": {
+        "priority": 3
+    },
+    "potassium": {
+        "priority": 3
+    },
+    "chloride": {
+        "priority": 3
+    },
+    "HbA1c": {
+        "priority": 1
+    },
+    "estimated_average_glucose": {
+        "priority": 1
+    },
+    "glucose_fasting": {
+        "priority": 1
+    },
+    "vitamin_b12": {
+        "priority": 3
+    },
+    "vitamin b12 level (serum,cmia)": {
+        "priority": 3
+    },
+    "vitamin_d": {
+        "priority": 3
+    },
+    "t3_total": {
+        "priority": 1
+    },
+    "t4_total": {
+        "priority": 1
+    },
+    "tsh": {
+        "priority": 1
+    },
+    "cholestrol": {
+        "priority": 1
+    },
+    "triglycerides": {
+        "priority": 1
+    },
+    "hdl_cholestrol": {
+        "priority": 3
+    },
+    "ldl_cholestrol": {
+        "priority": 1
+    },
+    "vldl_cholestrol": {
+        "priority": 3
+    },
+    "non_hdl_cholestrol": {
+        "priority": 3
+    }
+}
