@@ -59,6 +59,7 @@
 ![Notifications](screenshots/notifications.png)
 
 #### **Medical Report Summary:**
+![Select Report](screenshots/proFeature1.png)
 ![Medical Report](screenshots/report.png)
 ![Summary](screenshots/results.png)
 
