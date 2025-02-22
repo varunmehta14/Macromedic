@@ -72,7 +72,7 @@
 
 ### Frontend:
 - **React.js (Website)**
-- **Flutter (Mobile App)**
+- **React Native (Mobile App)**
 
 ### Other Tools & Libraries:
 - **Pytesseract**, **EasyOCR**, **Pdfplumber** for OCR processing.
